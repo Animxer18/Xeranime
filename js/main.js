@@ -1,4 +1,4 @@
-BASE_URL = "https://gogoanime.cl/"
+BASE_URL = "https://anihdplay.com/"
 
 let searchParams = new URLSearchParams(window.location.search);
 let pageNumber = searchParams.get('page');
