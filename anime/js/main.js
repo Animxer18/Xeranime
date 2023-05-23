@@ -1,4 +1,4 @@
-BASE_URL = "https://anihdplay.com/videos/"
+BASE_URL = "https://animedex.live"
 
 var iframe_url = ""
 
