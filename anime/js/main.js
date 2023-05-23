@@ -1,4 +1,4 @@
-BASE_URL = "https://gogoanime.cl/videos/"
+BASE_URL = "https://gogoanime.cl/"
 
 var iframe_url = ""
 
