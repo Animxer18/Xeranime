@@ -1,4 +1,4 @@
-BASE_URL = "animedex.live"
+BASE_URL = "https://animedex.live/"
 
 var iframe_url = ""
 
