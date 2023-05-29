@@ -1,6 +1,6 @@
 BASE_URL = "https://animerevival.xyz/videos/"
 
-var iframe_url = ""
+var iframe_url = "https://animerevival.xyz/"
 
 let searchParams = new URLSearchParams(window.location.search);
 let animeId = searchParams.get('id');
