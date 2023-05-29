@@ -1,6 +1,6 @@
-BASE_URL = "https://animerevival.xyz/"
+BASE_URL = "https://anihdplay.com/videos/"
 
-var iframe_url = "https://animerevival.xyz/"
+var iframe_url = ""
 
 let searchParams = new URLSearchParams(window.location.search);
 let animeId = searchParams.get('id');
