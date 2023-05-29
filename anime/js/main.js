@@ -1,4 +1,4 @@
-BASE_URL = "https://animerevival.xyz/videos/"
+BASE_URL = "https://animerevival.xyz/"
 
 var iframe_url = "https://animerevival.xyz/"
 
