@@ -1,4 +1,4 @@
-BASE_URL = "https://gogohd.net/videos/"
+BASE_URL = "https://kisskh.co/videos/"
 
 var iframe_url = ""
 
