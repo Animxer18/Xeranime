@@ -1,4 +1,4 @@
-BASE_URL = "https://kisskh.co/videos/"
+BASE_URL = "https://anihdplay.com/videos/"
 
 var iframe_url = ""
 
