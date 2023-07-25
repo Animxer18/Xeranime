@@ -1,4 +1,4 @@
-BASE_URL = "https://api.jikan.moe/v4/anime/{id}/videos"
+BASE_URL = "https://anihdplay.com/videos"
 
 var iframe_url = ""
 
