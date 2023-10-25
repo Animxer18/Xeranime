@@ -251,8 +251,26 @@ div.col.anime {
 body.dark-mode {
 	background-color: rgba(0, 0, 0, 0.9);
 	color: aliceblue;
-}
+        }
 
 body.dark-mode .anime h4 {
 	color: aliceblue;
+        }
+}
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+footer {
+  align-items: center;
+  background-color: #262626;
+  bottom: 0;
+  color: #FCF8E8;
+  display: flex;
+  font-size: 2.5em;
+  height: 300px;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
