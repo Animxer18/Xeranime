@@ -10,10 +10,10 @@
 
 body {
     /* margin: 20px; */
-    background-color: dark;
+    background-color: white;
 }
 
-body.white-mode {
+body.dark-mode {
     background-color: rgba(0, 0, 0, 0.9);
     color: aliceblue;
 }
