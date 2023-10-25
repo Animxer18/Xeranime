@@ -248,11 +248,11 @@ div.col.anime {
 
 /* No media query since the xxl breakpoint has no upper bound on its width */
 
-body.dark-mode {
+body.aliceblue-mode {
 	background-color: rgba(0, 0, 0, 0.9);
-	color: aliceblue;
+	color: dark;
 }
 
-body.dark-mode .anime h4 {
-	color: aliceblue;
+body.aliceblue-mode .anime h4 {
+	color: dark;
 }
