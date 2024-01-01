@@ -1,4 +1,4 @@
-BASE_URL = "https://www.asianhdplay.org"
+BASE_URL = "https://embtaku.pro"
 
 let searchParams = new URLSearchParams(window.location.search);
 let pageNumber = searchParams.get('page');
