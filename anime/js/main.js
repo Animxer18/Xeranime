@@ -1,4 +1,4 @@
-BASE_URL = "https://www.asianhdplay.org/videos/"
+BASE_URL = "https://embtaku.pro/videos/"
 
 var iframe_url = ""
 
